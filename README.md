@@ -15,8 +15,8 @@ De jury benadrukt dat deze praktijken niet voldoen aan de AVG en dat DPG Media h
 
 ## Gebruik
 
-1. Kopieer de gewenste blocklist.
-2. Voeg deze toe aan je AdGuard Home of een andere advertentie-/trackingsblocker.
+1. Kopieer de link naar de gewenste blocklist.
+2. Voeg deze toe aan je AdGuard Home of een andere advertentie-/trackingsblocker. In Adguard Home onder Filters -> DNS Blocklists -> Add blocklist -> Add a custom list.
 
 ## Meer informatie
 
