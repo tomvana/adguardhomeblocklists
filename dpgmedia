@@ -1,4 +1,16 @@
-# DPG Media - Belgium & Netherlands
+# DPG Media Domain Blocklist
+
+## DPG Media - Corporate
+dpgmedia.be
+dpgmedia.nl
+dpgmediagroup.com
+persgroep.be
+persgroep.nl
+persgroep.org
+medialaan.be
+
+## DPG Media - Belgium (Flanders)
+### Television
 vtm.be
 vtmgo.be
 vtm2.be
@@ -6,12 +18,19 @@ vtm3.be
 vtm4.be
 vtmlife.be
 vtmgold.be
+qmusictv.be
+
+### Radio
 qmusic.be
 joe.be
 willy.radio
+
+### News
 demorgen.be
 hln.be
 vtmnieuws.be
+
+### Magazines
 dagallemaal.be
 dmmagazine.be
 goedgevoel.be
@@ -21,25 +40,46 @@ primo.eu
 story.be
 teveblad.be
 tvfamilie.be
+
+### Online Services
 jobat.be
 livios.be
 mijnenergie.be
 spaargids.be
 tweakers.net
 independer.be
+
+### Video on Demand
 streamz.be
-rtlplay.be
+vtmgo.be
+
+## DPG Media - Belgium (Wallonia) - 50% ownership
+### Television
 rtl.be
 rtl-tvi.be
 rtlclub.be
 rtlplug.be
+clubrtl.be
+plugrtl.be
+
+### Radio
 belrtl.be
 mint.be
 radiocontact.be
+
+### News
 7sur7.be
 rtlinfo.be
 
-# DPG Media - Netherlands
+### Video on Demand
+rtlplay.be
+
+## DPG Media - Netherlands
+### Radio
+qmusic.nl
+joe.nl
+
+### News (National)
 ad.nl
 volkskrant.nl
 trouw.nl
@@ -47,6 +87,8 @@ deondernemer.nl
 nu.nl
 sportnieuws.nl
 topics.nl
+
+### News (Regional)
 bndestem.nl
 bd.nl
 gelderlander.nl
@@ -55,6 +97,8 @@ ed.nl
 parool.nl
 pzc.nl
 tubantia.nl
+
+### Magazines
 ariadneathome.nl
 autoweek.nl
 autoweekgto.nl
@@ -71,10 +115,13 @@ stijlvolwonen.nl
 story.nl
 totaaltv.nl
 veronicasuperguide.nl
+superguide.nl
 vtverbouwen.nl
 vtwonen.nl
 vtwonenlandelijkestijl.nl
 zozitdat.nl
+
+### Online Services
 autotrack.nl
 autowereld.nl
 businesswise.nl
@@ -93,9 +140,27 @@ reclamefolder.nl
 tijdschrift.nl
 tweakers.net
 mijnenergie.be
+boomguides.nl
 
-# Other DPG Media
+## DPG Media - Denmark
+berlingske.dk
+bt.dk
+euroinvestor.dk
+radioplay.dk
+
+## Other DPG Media Subsidiaries
 aldipress.nl
 brunopress.nl
 panelinzicht.nl
 proshots.nl
+dedonder.be
+mobile-vikings.be
+jellow.nl
+
+## Digital Services & Platforms
+connectiq.nl
+connectiq.be
+myprivacy.dpgmedia.nl
+myprivacy.dpgmedia.be
+dpgmediaadvertising.nl
+dpgmediaadvertising.be
